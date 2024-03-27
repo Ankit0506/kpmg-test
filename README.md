@@ -26,3 +26,6 @@ Deployment steps
 - deploy the code
 - try to access the application
 
+
+Pyton.py is for 2nd question
+-
