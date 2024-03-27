@@ -27,5 +27,5 @@ Deployment steps
 - try to access the application
 
 
-Pyton.py is for 2nd question
+ec2_meta.py is for 2nd question
 -
