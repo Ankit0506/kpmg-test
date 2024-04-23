@@ -1,3 +1,7 @@
+------------
+1st question
+------------
+
 Terraform
 -
 - create main file we write out configutation of resources
@@ -17,17 +21,17 @@ Jenkins
 
 Deployment steps
 -
-- Create eks cluster in the vpc that we created using terraform.
--  attached the service arn role for the same.
-- attached worker node on same that we created using terraform.
-- install kubectl on eks.
-- create repo
-- create the pipeline
-- deploy the code
-- try to access the application
+we can deploy our code on eks cluster using manifest file
+backend and frontend 2 microservice we can create.
+using igress we can expose our application
 
-
+------------
+2nd question
+------------
 ec2_meta.py is for 2nd question
--
+
+------------
+3rd question
+------------
 nested.py is for 3rd question
--
+
